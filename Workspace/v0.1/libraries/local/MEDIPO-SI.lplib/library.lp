@@ -1,0 +1,10 @@
+(librepcb_library ab67c765-a737-4e9c-8898-e4c6c4a64f2c
+ (name "MEDIPO-SI")
+ (description "Knihovna prvků pro MEDIPO-SI")
+ (keywords "")
+ (author "MEDIPO-SI")
+ (version "0.1")
+ (created 2023-02-03T11:31:34Z)
+ (deprecated false)
+ (url "https://github.com/MEDIPO-SI/LibrePCB")
+)
